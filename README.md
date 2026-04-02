@@ -11,7 +11,7 @@ Developed an interactive two-page Power BI dashboard to analyze e-commerce data,
 - Examined order status distribution  
 - Identified top 10 states by revenue
   
-### Sales Overview
+  
 ![Sales Overview](sales-overview.png)
 
 ### Order Quality & Customer Insights
@@ -21,7 +21,7 @@ Developed an interactive two-page Power BI dashboard to analyze e-commerce data,
 - Identified top-selling products  
 - Evaluated customer satisfaction by payment method
 
-### Customer Insights
+
 ![Order Quality & Customer Insights](customer-insights.png)
 
 ## Key Insights
