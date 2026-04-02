@@ -21,7 +21,7 @@ This project presents an interactive Power BI dashboard analyzing e-commerce sal
 ![Sales Overview](sales-overview.png)
 
 ### Customer Insights
-![Customer Insights](customer-insights.png)
+![Order Quality & Customer Insights](customer-insights.png)
 
 ## Conclusion
 This dashboard provides valuable business insights to support data-driven decision-making.
