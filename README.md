@@ -22,7 +22,7 @@ Developed an interactive two-page Power BI dashboard to analyze e-commerce data,
 - Evaluated customer satisfaction by payment method
 
 
-![Order Quality & Customer Insights](customer-insights.png)
+![Order Quality & Customer Insights](order quality & customer-insights.png)
 
 ## Key Insights
 - Maharashtra generates the highest revenue (₹1.8M)  
