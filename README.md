@@ -25,3 +25,8 @@ This project presents an interactive Power BI dashboard analyzing e-commerce sal
 
 ## Conclusion
 This dashboard provides valuable business insights to support data-driven decision-making.
+
+## Business Impact
+- Helps Identify high-performing products
+- Supports data-driven decision-making
+- Improvers customer targeting strategies
